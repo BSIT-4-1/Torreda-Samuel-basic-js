@@ -1,0 +1,11 @@
+{
+  "name": "bsit4-1",
+  "version": "1.0.0",
+  "description": "first npm",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Samuel Torreda",
+  "license": "ISC"
+}
